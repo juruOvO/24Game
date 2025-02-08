@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/widgetIcon.jpg</file>
+        <file>requirements/description.md</file>
+        <file>requirements/test.txt</file>
+        <file>files/test.txt</file>
+    </qresource>
+</RCC>
